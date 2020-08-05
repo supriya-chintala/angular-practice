@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-sass"
+    }
+  },
+  "defaultProject": "angular-sass",
+  "cli": {
+    "analytics": false
+  }
 }
