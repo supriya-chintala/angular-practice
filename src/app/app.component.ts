@@ -27,10 +27,10 @@ export class AppComponent {
   }
 
   dresses=['kurta', 'saree', 'lehenga']
-  info=[{name: "supriya", email: "ss@gmail.com"},
-  {name: "aswini", email: "ar@gmail.com"},
-  {name: "lavanaya", email: "ld@gmail.com"},
-  {name: "sravanthi", email: "sa@gmail.com"}
+  info=[{name: "pinky", email: "ss@gmail.com"},
+  {name: "shadow", email: "ar@gmail.com"},
+  {name: "nemo", email: "ld@gmail.com"},
+  {name: "lesa", email: "sa@gmail.com"}
 
 ]
 
